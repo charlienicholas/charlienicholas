@@ -1,3 +1,4 @@
+![Header](/img/github-header-banner.png)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/charlienicholas.js) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/charlienicholas.js) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kangwibu129@gmail.com) 
