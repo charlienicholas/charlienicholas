@@ -26,11 +26,6 @@
 ###
 
 ## 🎮 Games
-
-### Snake
-<img src="https://raw.githubusercontent.com/charlienicholas/charlienicholas/output/snake.svg" alt="Snake animation" />
-
-### Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charlienicholas/charlienicholas/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charlienicholas/charlienicholas/output/pacman-contribution-graph.svg">
