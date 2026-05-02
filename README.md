@@ -4,7 +4,7 @@
 
 ###
 
-![Header](/img/github-header-banner.png)
+![Header](/img/Charlie_Banner.png)
 
 ###
 
