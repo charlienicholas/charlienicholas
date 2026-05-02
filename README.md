@@ -4,7 +4,7 @@
 
 ###
 
-![Header](/img/Charlie_Banner.png)
+![Header](/img/Banner%20versi%204.svg)
 
 ###
 
