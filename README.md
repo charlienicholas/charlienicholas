@@ -55,7 +55,7 @@ console.log(
 
 ## Tanda Bukti Malas
 <p align="center">
-  <img src="img/IMPHNEN.png" width="950" alt="Sertifikat Kemalasan IMPHNEN">
+  <img src="img/IMPHNEN 1.svg" alt="Sertifikat Kemalasan IMPHNEN">
 </p>
 
 ###
