@@ -38,11 +38,10 @@ console.log(
 ###
 
 ## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=charlienicholas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=charlienicholas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 <div align="center">
 
+![](https://github-readme-stats.shion.dev/api?username=charlienicholas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=charlienicholas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://streak-stats.demolab.com/?user=charlienicholas&theme=tokyonight&hide_border=false)
 
 </div>
