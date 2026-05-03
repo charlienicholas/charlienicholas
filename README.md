@@ -38,9 +38,15 @@ console.log(
 ###
 
 ## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=charlienicholas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=charlienicholas&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=charlienicholas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=charlienicholas&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=charlienicholas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charlienicholas&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
 
 ###
 
