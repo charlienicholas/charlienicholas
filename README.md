@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl1eWM4MTRtN3Nrc285YWRmZWl5bHpybGZpanJlc3hiMDc4NDNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txwgdScLyw5zO/giphy.gif"  />
+  <img width="800" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl1eWM4MTRtN3Nrc285YWRmZWl5bHpybGZpanJlc3hiMDc4NDNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txwgdScLyw5zO/giphy.gif"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@ console.log(
 
 ## Tanda Bukti Malas
 <p align="center">
-  <img src="img/IMPHNEN.png" width="600" alt="Sertifikat Kemalasan IMPHNEN">
+  <img src="img/IMPHNEN.png" width="800" alt="Sertifikat Kemalasan IMPHNEN">
 </p>
 
 ###
