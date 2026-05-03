@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=1E6BFF&background=FFE2E200&center=true&vCenter=true&random=true&width=950&height=30&lines=Charlie+Nicholas+Pandapotan+Manalu;Frontend+%26+Backend+Developer;IMPHNEN+Member;I+told+one+single+lie%2C+Kaori+likes+Watari)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=1E6BFF&background=FFE2E200&center=true&vCenter=true&random=true&width=950&height=30&lines=Charlie+Nicholas+Pandapotan+Manalu;Frontend+%26+Backend+Developer;IMPHNEN+Member;I+told+one+single+lie%2C+Kaori+likes+Watari)](https://git.io/typing-svg)
 
 ###
 
