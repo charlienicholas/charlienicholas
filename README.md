@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=1E6BFF&background=FFE2E200&center=true&vCenter=true&random=true&width=600&height=30&lines=Charlie+Nicholas+Pandapotan+Manalu;Frontend+%26+Backend+Developer;IMPHNEN+Member;I+told+one+single+lie%2C+Kaori+likes+Watari)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=1E6BFF&background=FFE2E200&center=true&vCenter=true&random=true&width=950&height=30&lines=Charlie+Nicholas+Pandapotan+Manalu;Frontend+%26+Backend+Developer;IMPHNEN+Member;I+told+one+single+lie%2C+Kaori+likes+Watari)](https://git.io/typing-svg)
 
 ###
 
 <div align="center">
-  <img width="800" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl1eWM4MTRtN3Nrc285YWRmZWl5bHpybGZpanJlc3hiMDc4NDNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txwgdScLyw5zO/giphy.gif"  />
+  <img width="950" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl1eWM4MTRtN3Nrc285YWRmZWl5bHpybGZpanJlc3hiMDc4NDNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/txwgdScLyw5zO/giphy.gif"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@ console.log(
 
 ## Tanda Bukti Malas
 <p align="center">
-  <img src="img/IMPHNEN.png" width="800" alt="Sertifikat Kemalasan IMPHNEN">
+  <img src="img/IMPHNEN.png" width="950" alt="Sertifikat Kemalasan IMPHNEN">
 </p>
 
 ###
