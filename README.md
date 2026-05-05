@@ -15,12 +15,12 @@
 ```
 console.log(
     [
-      'My Name Charlie Nicholas Pandapotan Manalu',
+      'My Name Charlie Nicholas Pandapotan Manalu.'
       'An informatics student, who enjoys scrolling through Facebook,
-      and playing Roblox.',
-      'Now I am deepening my knowledge of web development.',
+      and playing Roblox.'
+      'Now I am deepening my knowledge of web development.'
       'But sometimes I try other things, like drawing, writing,
-      playing guitar, competitive programming, and several other hobbies'
+      playing guitar, competitive programming, and several other hobbies.'
     ]
 );
 ```
