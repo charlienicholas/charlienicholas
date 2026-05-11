@@ -18,7 +18,7 @@ console.log(
       'My Name Charlie Nicholas Pandapotan Manalu.'
       'An informatics student, who enjoys scrolling through Facebook,
       and playing Roblox.'
-      'Now I am deepening my knowledge of web development.'
+      'Now I am deepening my knowledge of web development.'exi
       'But sometimes I try other things, like drawing, writing,
       playing guitar, competitive programming, and several other hobbies.'
     ]
